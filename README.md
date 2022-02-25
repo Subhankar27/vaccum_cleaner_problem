@@ -1,4 +1,4 @@
-# vaccum_cleaner_problem
+# vacuum_cleaner_problem
 
 INSTRUCTIONS
 Enter LOCATION A/B in captial letters where A and B are the two adjacent rooms respectively.
